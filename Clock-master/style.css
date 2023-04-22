@@ -1,0 +1,18 @@
+.con{
+  background-color: aqua;
+}
+
+.container-fluid{
+  background-color: rgb(152, 175, 174);
+}
+.btn btn-outline-success{
+  border: black;
+}
+.in{
+  font-size: 50px;
+  text-align: center;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif}
+#h{
+  font-size: 80px;
+  text-align: center;
+}
